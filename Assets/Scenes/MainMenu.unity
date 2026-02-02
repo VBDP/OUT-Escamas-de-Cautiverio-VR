@@ -633,7 +633,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -5.58, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -1424,14 +1424,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1850150722}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.5521271, z: -0, w: 0.83376}
-  m_LocalPosition: {x: -14.8, y: -1.84, z: 0.19}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -5.149, z: -2.946}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1585404063}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 67.026, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1970228008
 GameObject:
   m_ObjectHideFlags: 0
@@ -4925,6 +4925,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Options
       objectReference: {fileID: 0}
+    - target: {fileID: 3586489642904921182, guid: 8e21f49f73ae1f74a9eed58aeaa42c30, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4450021071612698437, guid: 8e21f49f73ae1f74a9eed58aeaa42c30, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -6285,7 +6289,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -6616,7 +6620,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -9902,7 +9906,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -10023,9 +10027,9 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1198508933617786978}
-  m_LocalRotation: {x: 0.03509227, y: -0.48726487, z: -0.019570062, w: -0.87232935}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.008216642, y: 0.008216642, z: 0.008216642}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 2.646}
+  m_LocalScale: {x: 0.0014452011, y: 0.0014452011, z: 0.0014452011}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6291473375650778883}
@@ -10036,7 +10040,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -4.625}
   m_SizeDelta: {x: 1920, y: 1217.0422}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &8865725808257017385
@@ -10611,9 +10615,9 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1850150727}
   - {fileID: 1970228010}
   - {fileID: 954287622}
   - {fileID: 8809939147037772830}
   - {fileID: 349749402}
   - {fileID: 894472432}
-  - {fileID: 1850150727}
