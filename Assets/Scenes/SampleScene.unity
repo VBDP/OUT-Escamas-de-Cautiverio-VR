@@ -434,7 +434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Meta.XR.BuildingBlocks::Meta.XR.BuildingBlocks.BuildingBlock
   blockId: e47682b9-c270-40b1-b16d-90b627a5ce1b
-  instanceId: 45e0d8b1-a762-4c83-a60d-ac99c46c3a9f
+  instanceId: f6e8619d-cafb-4bb1-91f5-0b002e8d7e57
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -1976,7 +1976,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Meta.XR.BuildingBlocks::Meta.XR.BuildingBlocks.BuildingBlock
   blockId: 81f55626-5fad-45e9-a1df-184f330da7ba
-  instanceId: 2fa99a5d-6654-49b1-acd2-49087f3cf87e
+  instanceId: 822b4e89-92ca-4309-8a97-79e120b5631f
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 2063f481-1b63-4eda-9ee8-a00df98536bc

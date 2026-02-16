@@ -3284,15 +3284,6 @@ PrefabInstance:
       addedObject: {fileID: 1319534932}
     - targetCorrespondingSourceObject: {fileID: -8265944352880360275, guid: 9ea1394eaa43e6e45a5c0e9a3c2641c4, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1319534934}
-    - targetCorrespondingSourceObject: {fileID: -8265944352880360275, guid: 9ea1394eaa43e6e45a5c0e9a3c2641c4, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1319534933}
-    - targetCorrespondingSourceObject: {fileID: -8265944352880360275, guid: 9ea1394eaa43e6e45a5c0e9a3c2641c4, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1319534938}
-    - targetCorrespondingSourceObject: {fileID: -8265944352880360275, guid: 9ea1394eaa43e6e45a5c0e9a3c2641c4, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1319534940}
     - targetCorrespondingSourceObject: {fileID: -8265944352880360275, guid: 9ea1394eaa43e6e45a5c0e9a3c2641c4, type: 3}
       insertIndex: -1
@@ -9581,6 +9572,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1054875215801658, guid: dee7a332df32c9a4f99531ce6d5c277c, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Grid
+      objectReference: {fileID: 0}
     - target: {fileID: 4128088698236478, guid: dee7a332df32c9a4f99531ce6d5c277c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.9501227
@@ -9620,10 +9615,6 @@ PrefabInstance:
     - target: {fileID: 4128088698236478, guid: dee7a332df32c9a4f99531ce6d5c277c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1054875215801658, guid: dee7a332df32c9a4f99531ce6d5c277c, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Grid
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11903,6 +11894,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.734791
@@ -11942,10 +11937,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68803,6 +68794,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.732517
@@ -68842,10 +68837,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69428,6 +69419,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.573377
@@ -69467,10 +69462,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -74466,25 +74457,28 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1937406432}
+    - targetCorrespondingSourceObject: {fileID: 2915285917470131377, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1789496426}
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 720853564}
     - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 774616025}
-    - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 774616030}
-    - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 774616026}
-    - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 774616034}
     - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 774616036}
     - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 774616035}
+    - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 774616044}
+    - targetCorrespondingSourceObject: {fileID: 7090775452919025242, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 774616045}
     - targetCorrespondingSourceObject: {fileID: 1590083783716401968, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 959059669}
@@ -78772,6 +78766,28 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2548678845491012398, guid: b36a73e6ee3cd4948ac17ac2d3134cb5, type: 3}
   m_PrefabInstance: {fileID: 717361912}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &720853562 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+  m_PrefabInstance: {fileID: 686359365}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &720853564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720853562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cb9aa70a22847b5925ee5f067c10a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.CoreUtils::Unity.XR.CoreUtils.XROrigin
+  m_Camera: {fileID: 0}
+  m_OriginBaseGameObject: {fileID: 720853562}
+  m_CameraFloorOffsetObject: {fileID: 0}
+  m_RequestedTrackingOriginMode: 0
+  m_CameraYOffset: 1.1176
 --- !u!1001 &721190930
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -84423,48 +84439,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.0038867802, y: 0.0010275306, z: 0.0056151645}
-  m_Center: {x: -0.000008175732, y: 0.000000014901161, z: -0.00001702481}
---- !u!114 &774616026
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 774616021}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 185ecafd03a2bce4b8d0059a7976a26a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RunaPickup
---- !u!114 &774616030
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 774616021}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df543fe738057ee49a3f693deb427b38, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RuneSpawner
---- !u!114 &774616034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 774616021}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Outline
+  m_Size: {x: 0.00388678, y: 0.0013135459, z: 0.0056937374}
+  m_Center: {x: -0.000008175671, y: -0.0000046156356, z: -0.0000015103817}
 --- !u!114 &774616035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84559,6 +84539,61 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!4 &774616037 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2915285917470131377, guid: 8512ec3ab75caba45aaf7a0d5a54b5fe, type: 3}
+  m_PrefabInstance: {fileID: 686359365}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &774616044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774616021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Grabbable
+  _transferOnSecondSelection: 0
+  _addNewPointsToFront: 0
+  _forwardElement: {fileID: 774616044}
+  _oneGrabTransformer: {fileID: 0}
+  _twoGrabTransformer: {fileID: 0}
+  _targetTransform: {fileID: 774616037}
+  _maxGrabPoints: -1
+  _rigidbody: {fileID: 774616045}
+  _kinematicWhileSelected: 1
+  _throwWhenUnselected: 1
+  _forceKinematicDisabled: 0
+--- !u!54 &774616045
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774616021}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &774623563
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -120864,6 +120899,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.22
@@ -120903,10 +120942,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -122864,6 +122899,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1722302929}
     m_Modifications:
+    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Round
+      objectReference: {fileID: 0}
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.075
@@ -122903,10 +122942,6 @@ PrefabInstance:
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Round
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -137727,6 +137762,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1722302929}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.886203
@@ -137766,10 +137805,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -149891,48 +149926,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 0.0038647975, y: 0.0010275304, z: 0.005027861}
   m_Center: {x: -0.000025674291, y: -0.00000001490119, z: -0.00012512972}
---- !u!114 &1319534933
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1319534928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 185ecafd03a2bce4b8d0059a7976a26a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RunaPickup
---- !u!114 &1319534934
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1319534928}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df543fe738057ee49a3f693deb427b38, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RuneSpawner
---- !u!114 &1319534938
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1319534928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Outline
 --- !u!114 &1319534939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -194184,6 +194183,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -17.497
@@ -194223,10 +194226,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -199162,6 +199161,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Round (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.7782273
@@ -199201,10 +199204,6 @@ PrefabInstance:
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Round (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -206954,6 +206953,124 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2548678845491012398, guid: b36a73e6ee3cd4948ac17ac2d3134cb5, type: 3}
   m_PrefabInstance: {fileID: 1789481814}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1789496425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1789496426}
+  - component: {fileID: 1789496429}
+  - component: {fileID: 1789496428}
+  - component: {fileID: 1789496427}
+  m_Layer: 0
+  m_Name: '[BuildingBlock] HandGrabInstallationRoutine'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1789496426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789496425}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.0038308864, y: 0.0017425, z: 0.0053574904}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 774616037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1789496427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789496425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interactorFilters: []
+  _maxInteractors: -1
+  _maxSelectingInteractors: -1
+  _data: {fileID: 0}
+  _pointableElement: {fileID: 774616044}
+  _rigidbody: {fileID: 774616045}
+  _grabSource: {fileID: 0}
+  _useClosestPointAsGrabSource: 0
+  _releaseDistance: 0
+  _resetGrabOnGrabsUpdated: 1
+  _physicsGrabbable: {fileID: 0}
+--- !u!114 &1789496428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789496425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interactorFilters: []
+  _maxInteractors: -1
+  _maxSelectingInteractors: -1
+  _data: {fileID: 0}
+  _pointableElement: {fileID: 774616044}
+  _rigidbody: {fileID: 774616045}
+  _physicsGrabbable: {fileID: 0}
+  _resetGrabOnGrabsUpdated: 1
+  _scoringModifier:
+    _positionRotationWeight: 0.5
+  _slippiness: 0
+  _supportedGrabTypes: 3
+  _pinchGrabRules:
+    _thumbRequirement: 0
+    _indexRequirement: 1
+    _middleRequirement: 1
+    _ringRequirement: 0
+    _pinkyRequirement: 0
+    _unselectMode: 1
+  _palmGrabRules:
+    _thumbRequirement: 1
+    _indexRequirement: 0
+    _middleRequirement: 2
+    _ringRequirement: 2
+    _pinkyRequirement: 1
+    _unselectMode: 0
+  _movementProvider: {fileID: 0}
+  _handAligment: 0
+  _handGrabPoses: []
+--- !u!114 &1789496429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789496425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b023183069df224080314a560e6e1ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Meta.XR.BuildingBlocks::Meta.XR.BuildingBlocks.BuildingBlock
+  blockId: f8766c17-aaf8-4b55-9431-de8deea83842
+  instanceId: f516ebb1-ee99-4704-a53f-f96914577fa5
+  version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
+    _installationVariants:
+    - _memberName: mode
+      _value: '{"value__":0}'
 --- !u!1001 &1790401016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -212038,6 +212155,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Round (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.96
@@ -212077,10 +212198,6 @@ PrefabInstance:
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Round (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -216508,6 +216625,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.249917
@@ -216547,10 +216668,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -217183,6 +217300,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Round
+      objectReference: {fileID: 0}
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.2208185
@@ -217222,10 +217343,6 @@ PrefabInstance:
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Round
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -226631,6 +226748,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1722302929}
     m_Modifications:
+    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Star
+      objectReference: {fileID: 0}
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.856
@@ -226670,10 +226791,6 @@ PrefabInstance:
     - target: {fileID: 4617336029408962, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.894
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437338821391258, guid: b3f53efc1247d5144b4437b91e1b37ab, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Star
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -238750,6 +238867,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 716317565}
     m_Modifications:
+    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
+      propertyPath: m_Name
+      value: Dungeon_Floor_Trap_Round (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.840934
@@ -238789,10 +238910,6 @@ PrefabInstance:
     - target: {fileID: 4763709208510638, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1826823735867886, guid: 84b6dcc9019b86143812a6901fecd619, type: 3}
-      propertyPath: m_Name
-      value: Dungeon_Floor_Trap_Round (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
