@@ -76,6 +76,7 @@
   <Project Path="Unity.AI.Navigation.Updater.csproj" />
   <Project Path="Meta.XR.Editor.BuildingBlocks.AIBlocks.csproj" />
   <Project Path="Meta.XR.Editor.ToolingSupport.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Oculus.Interaction.OVR.Samples.csproj" />
   <Project Path="UnityEditor.UI.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj" />
@@ -98,7 +99,6 @@
   <Project Path="MetaXRSimulatorCore.Editor.csproj" />
   <Project Path="Meta.XR.MultiplayerBlocks.Shared.Editor.csproj" />
   <Project Path="Unity.InputSystem.ForUI.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Meta.XR.Editor.RemoteContent.csproj" />
   <Project Path="Unity.AI.Navigation.csproj" />
   <Project Path="Unity.Collections.CodeGen.csproj" />
@@ -148,11 +148,12 @@
   <Project Path="Oculus.Interaction.Editor.UnityXR.csproj" />
   <Project Path="UnityEngine.XR.LegacyInputHelpers.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj" />
+  <Project Path="Meta.XR.Editor.StatusMenu.csproj" />
+  <Project Path="Meta.XR.Editor.ToolingSupport.RuntimeOptimizer.csproj" />
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.004.csproj" />
-  <Project Path="Meta.XR.Editor.StatusMenu.csproj" />
   <Project Path="Meta.XR.Editor.EditorCoroutine.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Editor.Shared.csproj" />
   <Project Path="Meta.Net.endel.nativewebsocket.csproj" />
