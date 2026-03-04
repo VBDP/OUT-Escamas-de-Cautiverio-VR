@@ -1,11 +1,26 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
-public class FinalDoorManager : MonoBehaviour
+public class DetectRotationZ : MonoBehaviour
 {
-    private ScoreManager scoreManager;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private int puntuacionFinal;
+    private ScoreManager ScoreManager;
+    void Start()
+    {
+        ScoreManager = FindFirstObjectByType<ScoreManager>();
+    }
     void Update()
     {
-        
+        Quaternion rotation = this.transform.localRotation;
+        rotation.Normalize();
+        float rotationZ = rotation.z;
+
+        if(rotationZ <= -0.1f)
+        {
+            puntuacionFinal = ScoreManager.score;
+           PlayerPrefs.SetInt("PuntuacionFinal", puntuacionFinal);
+           SceneManager.LoadScene("WinScene");
+        }
     }
 }
