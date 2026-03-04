@@ -29889,6 +29889,35 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 333545625930636587, guid: 74e021a4f9457a94b82ee395018c9d2c, type: 3}
   m_PrefabInstance: {fileID: 278241433}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &278633919 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2978571458893240916, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+  m_PrefabInstance: {fileID: 1776481394}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &278633922 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4147102894439380630, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+  m_PrefabInstance: {fileID: 1776481394}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 278633919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5585168c67af345b1074140733215b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &278633924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 278633919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e56cbd2831c5ee54288fa91e252d4aab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TurnInteractionManager
+  turnerEventBroadcaster: {fileID: 278633922}
 --- !u!1001 &279425833
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -203061,6 +203090,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4148778239110795873, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       insertIndex: 1
       addedObject: {fileID: 1776481397}
+    - targetCorrespondingSourceObject: {fileID: 2978571458893240916, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 278633924}
   m_SourcePrefab: {fileID: 100100000, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
 --- !u!4 &1776481395 stripped
 Transform:

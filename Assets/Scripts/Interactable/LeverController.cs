@@ -16,11 +16,11 @@ public class LeverController : MonoBehaviour
 
         if(angleX > 50f)
         {
-            Debug.Log("Palanca activada");
+            //Debug.Log("Palanca activada");
         }
         else
         {
-            Debug.Log("Palanca desactivada");
+            //Debug.Log("Palanca desactivada");
         }
     }
 
