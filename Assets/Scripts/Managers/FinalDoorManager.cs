@@ -20,7 +20,7 @@ public class DetectRotationZ : MonoBehaviour
         {
             puntuacionFinal = ScoreManager.score;
            PlayerPrefs.SetInt("PuntuacionFinal", puntuacionFinal);
-           SceneManager.LoadScene("WinScene");
+           SceneManager.LoadSceneAsync("WinScene");
         }
     }
 }
